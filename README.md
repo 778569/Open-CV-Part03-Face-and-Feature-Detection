@@ -51,6 +51,9 @@ in here there will two algorithms
 
 ![image](https://github.com/778569/Open-CV-Part03-Face-and-Feature-Detection/assets/52319671/c90ff463-987a-4ffd-90f3-9f9daf89d409) <br><br>
 
+## QR reading algorithm
+
+![image](https://github.com/778569/Open-CV-Part03-Face-and-Feature-Detection/assets/52319671/6ee741d9-9d6d-4495-ad82-f1456cb7a3f2)
 
 
 
