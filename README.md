@@ -38,3 +38,19 @@ in here there will two algorithms
 # Limitations
 
 ![image](https://github.com/778569/Open-CV-Part03-Face-and-Feature-Detection/assets/52319671/be2e1167-cb3c-412b-8465-0c96b86a3e82) <br><br>
+
+## Haar Cascade Method
+
+* A form of features-based machine learning
+* Uses pretrain images of labeled positives and negatives
+* Runs through thousands of classifires in a cascaded manner
+* Used case : Detect faces in the image and draw bounding boxes.
+
+# Process of cascading
+![image](https://github.com/778569/Open-CV-Part03-Face-and-Feature-Detection/assets/52319671/f8870626-39b6-4db6-a9dc-564eacb5ffd7) <br><br>
+
+![image](https://github.com/778569/Open-CV-Part03-Face-and-Feature-Detection/assets/52319671/c90ff463-987a-4ffd-90f3-9f9daf89d409) <br><br>
+
+
+
+
