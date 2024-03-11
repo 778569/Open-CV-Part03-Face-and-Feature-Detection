@@ -32,6 +32,8 @@ in here there will two algorithms
 # Template matching : 2D Example
 
 ![image](https://github.com/778569/Open-CV-Part03-Face-and-Feature-Detection/assets/52319671/1f000964-7506-4ff2-bb38-be7498f701d9) <br><br>
+![image](https://github.com/778569/Open-CV-Part03-Face-and-Feature-Detection/assets/52319671/ba33457c-9fc9-4edb-9599-8ef053e6abe3)<br><br>
+
 
 # Limitations
 
