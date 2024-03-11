@@ -55,5 +55,10 @@ in here there will two algorithms
 
 ![image](https://github.com/778569/Open-CV-Part03-Face-and-Feature-Detection/assets/52319671/6ee741d9-9d6d-4495-ad82-f1456cb7a3f2)
 
+## QR code Generator
+
+![image](https://github.com/778569/Open-CV-Part03-Face-and-Feature-Detection/assets/52319671/c69bdae4-4783-43ab-b1f0-d690d6f58900)
+
+
 
 
